@@ -1,0 +1,39 @@
+#assign{
+    display: flex;
+    justify-content: center;
+}
+.one{
+    width:900px;
+    height:450px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.two{
+    width:840px;
+    height:390px;
+    background: linear-gradient(to bottom right,red, blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.three{
+    width:720px;
+    height:270px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.four{
+    width:580px;
+    height:75px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
